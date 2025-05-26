@@ -1,0 +1,1117 @@
+.email-password-change-instructions-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.email-password-change-instructions-email-password-change-instructions {
+  width: 1024px;
+  height: auto;
+  display: flex;
+  padding: 0 120px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: var(--dl-color-default-white);
+}
+ 
+.email-password-change-instructions-header-desktop {
+  gap: 10px;
+  display: flex;
+  padding: 24px 0;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.email-password-change-instructions-logo1 {
+  width: 800px;
+  height: 40px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.email-password-change-instructions-logo2 {
+  top: 2px;
+  left: 324px;
+  width: 154px;
+  height: 37px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.email-password-change-instructions-text10 {
+  left: 31px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-g1 {
+  gap: 6.1666669845581055px;
+  top: 0px;
+  left: 0px;
+  width: 37px;
+  height: 37px;
+  display: flex;
+  padding: 6.1666669845581055px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 40.70000076293945px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-default-cta2solid);
+}
+ 
+.email-password-change-instructions-text11 {
+  color: #ffffff;
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 700;
+}
+ 
+.email-password-change-instructions-content1 {
+  gap: 24px;
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-start;
+  border-radius: 12px;
+  flex-direction: column;
+  background-color: rgba(249, 251, 255, 1);
+}
+ 
+.email-password-change-instructions-content2 {
+  gap: 32px;
+  display: flex;
+  padding: 64px 64px 0;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.email-password-change-instructions-promosection {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.email-password-change-instructions-promotext {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.email-password-change-instructions-text12 {
+  color: var(--dl-color-default-black);
+  height: auto;
+  font-size: 32px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 700;
+  line-height: 125%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-text13 {
+  color: rgba(25, 25, 25, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 500;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-text14 {
+  color: var(--dl-color-default-black);
+  font-weight: 500;
+}
+ 
+.email-password-change-instructions-text15 {
+  color: var(--dl-color-default-cta2solid);
+  font-weight: 700;
+}
+ 
+.email-password-change-instructions-stepssection {
+  display: flex;
+  padding: 16px;
+  align-self: stretch;
+  background: linear-gradient(222deg, rgba(175, 247, 255, 1) 0%, rgba(209, 214, 255, 1) 93%);
+  align-items: center;
+  border-radius: 12px;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.email-password-change-instructions-promocodesection {
+  gap: 16px;
+  display: flex;
+  padding: 24px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 12px;
+  justify-content: space-between;
+  background-color: var(--dl-color-default-white);
+}
+ 
+.email-password-change-instructions-promocodedetails {
+  gap: 16px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.email-password-change-instructions-text17 {
+  color: rgba(137, 139, 140, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 400;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-text18 {
+  color: var(--dl-color-default-black);
+  height: auto;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 700;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-auto-layout-horizontal1 {
+  gap: 8px;
+  display: flex;
+  padding: 12px 24px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 12px;
+  justify-content: center;
+  background-color: var(--dl-color-default-cta2solid);
+}
+ 
+.email-password-change-instructions-text19 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-discountbadge {
+  width: 133px;
+  height: 133.18069458007812px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.email-password-change-instructions-star12 {
+  top: 0px;
+  left: 0px;
+  width: 133px;
+  height: 133px;
+  position: absolute;
+}
+ 
+.email-password-change-instructions-text20 {
+  top: 38.11530303955078px;
+  left: 22.31497573852539px;
+  color: var(--dl-color-default-cta2solid);
+  height: auto;
+  position: absolute;
+  font-size: 45.87271499633789px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 600;
+  line-height: 120.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-benefitssection {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  border-radius: 12px;
+  flex-direction: column;
+}
+ 
+.email-password-change-instructions-text21 {
+  color: rgba(137, 139, 140, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 400;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-text22 {
+  color: var(--dl-color-default-black);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 700;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-text23 {
+  font-weight: 700;
+}
+ 
+.email-password-change-instructions-text25 {
+  color: var(--dl-color-default-black);
+  width: 656px;
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 700;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-text26 {
+  font-weight: 700;
+}
+ 
+.email-password-change-instructions-text28 {
+  color: var(--dl-color-default-black);
+  width: 656px;
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 700;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-text29 {
+  font-weight: 700;
+}
+ 
+.email-password-change-instructions-line4 {
+  width: 656px;
+  height: 1px;
+  opacity: 0.10;
+  align-self: stretch;
+}
+ 
+.email-password-change-instructions-why-gonzo-proxysection {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  border-radius: 12px;
+  flex-direction: column;
+}
+ 
+.email-password-change-instructions-group6 {
+  width: 656px;
+  height: 250px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.email-password-change-instructions-text31 {
+  color: rgba(137, 139, 140, 1);
+  width: 656px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 400;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-benefititem1 {
+  gap: 8px;
+  top: 34px;
+  left: 0px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.email-password-change-instructions-iconcard1 {
+  width: 20px;
+  height: 20px;
+}
+ 
+.email-password-change-instructions-text32 {
+  color: var(--dl-color-default-black);
+  height: auto;
+  flex-grow: 1;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 700;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-text33 {
+  font-weight: 700;
+}
+ 
+.email-password-change-instructions-benefititem2 {
+  gap: 8px;
+  top: 92px;
+  left: 0px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.email-password-change-instructions-iconcard2 {
+  width: 20px;
+  height: 20px;
+}
+ 
+.email-password-change-instructions-text35 {
+  color: var(--dl-color-default-black);
+  height: auto;
+  flex-grow: 1;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 700;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-text36 {
+  font-weight: 700;
+}
+ 
+.email-password-change-instructions-benefititem3 {
+  gap: 8px;
+  top: 150px;
+  left: 0px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.email-password-change-instructions-iconcard3 {
+  width: 20px;
+  height: 20px;
+}
+ 
+.email-password-change-instructions-text38 {
+  color: var(--dl-color-default-black);
+  height: auto;
+  flex-grow: 1;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 700;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-text39 {
+  font-weight: 700;
+}
+ 
+.email-password-change-instructions-benefititem4 {
+  gap: 8px;
+  top: 208px;
+  left: 0px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.email-password-change-instructions-iconcard4 {
+  width: 20px;
+  height: 20px;
+}
+ 
+.email-password-change-instructions-text41 {
+  color: var(--dl-color-default-black);
+  height: auto;
+  flex-grow: 1;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 700;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-text42 {
+  font-weight: 700;
+}
+ 
+.email-password-change-instructions-auto-layout-horizontal2 {
+  gap: 8px;
+  display: flex;
+  padding: 12px 24px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 12px;
+  justify-content: center;
+  background-color: var(--dl-color-default-cta2solid);
+}
+ 
+.email-password-change-instructions-text44 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-line5 {
+  width: 656px;
+  height: 1px;
+  opacity: 0.10;
+  align-self: stretch;
+}
+ 
+.email-password-change-instructions-testimonialsection {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.email-password-change-instructions-testimonialcontent {
+  gap: 16px;
+  display: flex;
+  padding: 24px;
+  align-self: stretch;
+  align-items: flex-start;
+  border-radius: 12px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-white);
+}
+ 
+.email-password-change-instructions-text45 {
+  color: var(--dl-color-default-black);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-testimonialauthor {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.email-password-change-instructions-ellipse1 {
+  width: 20px;
+  height: 20px;
+}
+ 
+.email-password-change-instructions-text46 {
+  color: rgba(137, 139, 140, 1);
+  height: auto;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 500;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-line6 {
+  width: 656px;
+  height: 1px;
+  opacity: 0.10;
+  align-self: stretch;
+}
+ 
+.email-password-change-instructions-supportsection {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.email-password-change-instructions-supportdetails {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.email-password-change-instructions-text47 {
+  color: var(--dl-color-default-black);
+  height: auto;
+  font-size: 24px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 600;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-text48 {
+  color: rgba(25, 25, 25, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 400;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-text49 {
+  color: var(--dl-color-default-black);
+  font-weight: 400;
+}
+ 
+.email-password-change-instructions-auto-layout-horizontal3 {
+  gap: 8px;
+  display: flex;
+  padding: 12px 24px;
+  overflow: hidden;
+  align-items: center;
+  border-color: rgba(64, 141, 249, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 12px;
+  justify-content: center;
+}
+ 
+.email-password-change-instructions-text51 {
+  color: var(--dl-color-default-cta2solid);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-footersection {
+  gap: 8px;
+  display: flex;
+  padding: 24px 64px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+  background-color: rgba(238, 246, 255, 1);
+}
+ 
+.email-password-change-instructions-frame520 {
+  gap: 8px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.email-password-change-instructions-logo3 {
+  width: 133px;
+  height: 32px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.email-password-change-instructions-logotext {
+  top: 9.038899421691895px;
+  left: 27.63606834411621px;
+  width: 105px;
+  height: 20px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.email-password-change-instructions-g2 {
+  gap: 4.004329204559326px;
+  top: 0px;
+  left: 0px;
+  width: 31.99308204650879px;
+  height: 32px;
+  display: flex;
+  padding: 4.004329204559326px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 26.428571701049805px;
+  flex-direction: column;
+  padding-bottom: 4.004329204559326px;
+  justify-content: center;
+  background-color: var(--dl-color-default-cta2solid);
+}
+ 
+.email-password-change-instructions-text52 {
+  color: #ffffff;
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 700;
+}
+ 
+.email-password-change-instructions-text53 {
+  color: var(--dl-color-default-black);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 400;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-text54 {
+  color: rgba(137, 139, 140, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 400;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-frame518 {
+  gap: 4px;
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column;
+}
+ 
+.email-password-change-instructions-frame515 {
+  gap: 3.0207369327545166px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.email-password-change-instructions-shape1 {
+  width: 19px;
+  height: 18px;
+}
+ 
+.email-password-change-instructions-text55 {
+  color: var(--dl-color-default-black);
+  height: auto;
+  font-size: 12.082947731018066px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 19.634790420532227px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-frame521 {
+  gap: 8px;
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.email-password-change-instructions-stars51 {
+  gap: 3.185185194015503px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+}
+ 
+.email-password-change-instructions-group5 {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.email-password-change-instructions-rectanglepath1 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+ 
+.email-password-change-instructions-shape2 {
+  top: 2.6998698711395264px;
+  left: 2.3997395038604736px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+}
+ 
+.email-password-change-instructions-group4 {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.email-password-change-instructions-rectanglepath2 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+ 
+.email-password-change-instructions-shape3 {
+  top: 2.6998698711395264px;
+  left: 2.3997392654418945px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+}
+ 
+.email-password-change-instructions-group3 {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.email-password-change-instructions-rectanglepath3 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+ 
+.email-password-change-instructions-shape4 {
+  top: 2.6998698711395264px;
+  left: 2.3997395038604736px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+}
+ 
+.email-password-change-instructions-group2 {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.email-password-change-instructions-rectanglepath4 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+ 
+.email-password-change-instructions-shape5 {
+  top: 2.6998698711395264px;
+  left: 2.3997397422790527px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+}
+ 
+.email-password-change-instructions-group1 {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.email-password-change-instructions-rectanglepath5 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+ 
+.email-password-change-instructions-rectanglepath6 {
+  top: 0px;
+  left: 12.1728515625px;
+  width: 4px;
+  height: 16px;
+  position: absolute;
+}
+ 
+.email-password-change-instructions-shape6 {
+  top: 2.6998698711395264px;
+  left: 2.4000651836395264px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+}
+ 
+.email-password-change-instructions-frame516 {
+  gap: 1px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.email-password-change-instructions-text56 {
+  color: var(--dl-color-default-black);
+  height: auto;
+  font-size: 14px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-text57 {
+  font-weight: 700;
+}
+ 
+.email-password-change-instructions-text58 {
+  font-weight: 500;
+}
+ 
+.email-password-change-instructions-text60 {
+  color: rgba(137, 139, 140, 1);
+  height: auto;
+  font-size: 8px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 400;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-text61 {
+  font-weight: 400;
+}
+ 
+.email-password-change-instructions-footer-desktop {
+  gap: 32px;
+  display: flex;
+  padding: 32px 0;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.email-password-change-instructions-social {
+  gap: 16px;
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.email-password-change-instructions-text63 {
+  color: var(--dl-color-default-black);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 400;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-icons {
+  gap: 32px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.email-password-change-instructions-facebookicon {
+  width: 24px;
+  height: 24px;
+}
+ 
+.email-password-change-instructions-instagramicon {
+  width: 24px;
+  height: 24px;
+}
+ 
+.email-password-change-instructions-xicon {
+  width: 24px;
+  height: 24px;
+}
+ 
+.email-password-change-instructions-you-tubeicon {
+  width: 24px;
+  height: 24px;
+}
+ 
+.email-password-change-instructions-linked-inicon {
+  width: 24px;
+  height: 24px;
+}
+ 
+.email-password-change-instructions-telegramicon {
+  width: 24px;
+  height: 24px;
+}
+ 
+.email-password-change-instructions-gitbook2 {
+  width: 24px;
+  height: 24px;
+}
+ 
+.email-password-change-instructions-text64 {
+  color: var(--dl-color-default-black);
+  height: auto;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Manrope;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.email-password-change-instructions-text65 {
+  color: rgba(71, 71, 71, 1);
+  width: 600px;
+  height: auto;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Manrope;
+  font-weight: 500;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
